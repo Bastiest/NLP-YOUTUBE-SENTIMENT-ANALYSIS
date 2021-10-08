@@ -11,7 +11,7 @@ Pacman's Retirement Sentiment Analysis
   - Removed unnecessary data
   - Removed punctuation marks
   - Used NLTK library to filter unnecessary text like stopwords
-- Data Visulization
+- Data Visualization
   - Used table chart to identify the top words and top sentences
   - also, used wordcloud for more visualization
 
